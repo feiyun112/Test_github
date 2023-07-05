@@ -60,6 +60,6 @@ Pull 请求是 GitHub 协同工作的核心。当你提出一个 Pull 请求的�
 
 ![image](https://github.com/feiyun112/Test_github/blob/main/images/pull%E2%80%94%E2%80%94requests.jpg)
 
-![image[(https://github.com/feiyun112/Test_github/blob/main/images/compare.jpg)
+![image](https://github.com/feiyun112/Test_github/blob/main/images/compare.jpg)
 
 ![image](https://github.com/feiyun112/Test_github/blob/main/images/merge.jpg)
