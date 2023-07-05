@@ -1,5 +1,8 @@
 def get_name(first_name,last_name):
         fullname=first_name+last_name
         return fullname
+
+import random
+def gess_number(number)
         
-  
+
