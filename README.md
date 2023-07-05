@@ -17,7 +17,7 @@ This repository will  be used study github
 下面展示了：
 ![image](https://github.com/feiyun112/Test_github/blob/main/images/feature.jpg)
 
-进入仓库，点击顶部名为master，在find/create feature中创建一个新的分支，并点击enter确认创建
+进入仓库，点击顶部名为master，在find/create feature中创建一个新的分支，点击下面的create branch.....
 
 ![image](https://github.com/feiyun112/Test_github/blob/main/images/%E5%88%86%E6%94%AF.jpg)
 
@@ -57,5 +57,4 @@ Pull 请求是 GitHub 协同工作的核心。当你提出一个 Pull 请求的�
 单击绿色Merge pull request按钮将修改的内容合并到master分支；
 单击Confirm merge按钮；
 删除该分支，因为它修改的内容已经合并了，在“紫色”框中点击Delete branch按钮。
-要删除按钮吗分支吗
 
