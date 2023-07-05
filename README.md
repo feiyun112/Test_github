@@ -57,4 +57,5 @@ Pull 请求是 GitHub 协同工作的核心。当你提出一个 Pull 请求的�
 单击绿色Merge pull request按钮将修改的内容合并到master分支；
 单击Confirm merge按钮；
 删除该分支，因为它修改的内容已经合并了，在“紫色”框中点击Delete branch按钮。
+要删除按钮吗分支吗
 
