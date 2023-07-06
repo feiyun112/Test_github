@@ -104,4 +104,7 @@ Pull 请求是 GitHub 协同工作的核心。当你提出一个 Pull 请求的�
 输入git pull origin master命令，同步远程仓库和本地仓库,再在本地仓库中进行增加，删除等的操作，然后git add ***,git commit -m"****",再输入git push origin master命令，将本地仓库修改（或者添加）的内容提交到远程仓库：
 
 注：本地仓库和远程仓库的名字可以随意取。
+## 3,回滚Git提交到Github上的commit
+
+## 4，其他
 
