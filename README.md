@@ -96,5 +96,12 @@ Pull 请求是 GitHub 协同工作的核心。当你提出一个 Pull 请求的�
 
 命令：***ssh -T git@github.com****
 
+## 2,通过Git将代码提交到Github
+有两种方式：
+**第一种**：本地没有 Git 仓库，这时我们就可以直接将远程仓库clone到本地。通过clone命令创建的本地仓库，其本身就是一个 Git 仓库了，不用我们再进行init初始化操作啦，而且自动关联远程仓库。我们只需要在这个仓库进行修改或者添加等操作，然后git add *** &git commit -m"****" 即可。然后git push origin master(main)即可。
 
+**第二种**：本地有 Git 仓库，并且我们已经进行了多次commit操作。先建立一个仓库，然后git init 初始化，再git remote add origin https://github.com/guobinhit/springmvc-tutorial.git命令,关联远程仓库（在此，默认大家都知道如何获取远程仓库的地址），其中origin为远程仓库的名字,
+输入git pull origin master命令，同步远程仓库和本地仓库,再在本地仓库中进行增加，删除等的操作，然后git add ***,git commit -m"****",再输入git push origin master命令，将本地仓库修改（或者添加）的内容提交到远程仓库：
+
+注：本地仓库和远程仓库的名字可以随意取。
 
